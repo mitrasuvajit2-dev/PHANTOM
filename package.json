@@ -1,0 +1,13 @@
+{
+  "name": "phantom-search",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Free community-powered metasearch interface using public SearXNG instances.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
